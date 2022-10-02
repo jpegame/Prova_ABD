@@ -1,6 +1,6 @@
 # Prova_ABD
 # Quantidade de Produtos: 
-> Como um vendedor, eu gostaria de saber quantos produtos eu tenho em meu estoque.
+> Como um vendedor, eu gostaria de saber quantos produtos eu tenho em meu estoque, para que eu saiba qual produto preciso comprar com mais urgência.
 ## Critérios de Aceitação: 
 > O banco de dados precisa armazenar: a quantidade que cada produto possui separadamente
 # Registro de Vendas: 
