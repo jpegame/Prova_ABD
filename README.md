@@ -20,7 +20,9 @@ O programa precisa ter tabelas para registrar o endereço que será dividida nas
 >
 >
 >
-#Definition of Done(DoD)
+# Definition of Done(DoD)
+
+Um relatório comprovando que o programa funcioana será enviado para quem usar o programa, além disso alguns videos de como usá-lo serão enviados.
 
 # Entidade Relacionamento:
 ![ERDDiagram1](https://user-images.githubusercontent.com/62303009/193476037-749b60f5-36a7-44d2-9673-c3ff5702e701.jpg)
