@@ -20,5 +20,7 @@ O programa precisa ter tabelas para registrar o endereço que será dividida nas
 >
 >
 >
+#Definition of Done(DoD)
+
 # Entidade Relacionamento:
 ![ERDDiagram1](https://user-images.githubusercontent.com/62303009/193476037-749b60f5-36a7-44d2-9673-c3ff5702e701.jpg)
