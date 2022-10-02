@@ -1,7 +1,7 @@
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 from sqlalchemy import Column,ForeignKey, Integer, String, create_engine, Table
 
-URL="mysql+mysqlconnector://root:jpegame1234@127.0.0.1:3306/intro_orm"
+URL="mysql+mysqlconnector://root:joao123@127.0.0.1:3306/intro_orm"
 engine = create_engine(url=URL)
 Base = declarative_base()
 
