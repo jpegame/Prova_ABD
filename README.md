@@ -26,3 +26,5 @@ Um relatório comprovando que o programa funcioana será enviado para quem usar 
 
 # Entidade Relacionamento:
 ![ERDDiagram1](https://user-images.githubusercontent.com/62303009/193476037-749b60f5-36a7-44d2-9673-c3ff5702e701.jpg)
+# Classe UML:
+![Main](https://user-images.githubusercontent.com/62303009/193485569-d2b54ef8-a6c9-41d3-9959-96032eba6ae9.jpg)
